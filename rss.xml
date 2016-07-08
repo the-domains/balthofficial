@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Balth&nbsp;]]></title>
-        <description><![CDATA[Balth&nbsp;]]></description>
+        <title><![CDATA[Balth]]></title>
+        <description><![CDATA[Balth]]></description>
         <link>https://thegrid.ai/balthofficial/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 14:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 19:45:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/balthofficial/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Song Covers by -Balth-]]></title>
+            <description><![CDATA[<article><h1>Song Covers by -Balth-</h1><p>Covers compilation done in the past years</p></article>]]></description>
+            <link>https://soundcloud.com/balthofficial/sets/song-covers</link>
+            <guid isPermaLink="false">32df872a-3818-42b1-a84c-89e57bfff84f</guid>
+            <pubDate>Fri, 08 Jul 2016 19:45:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Balth. 705 likes &middot; 6 talking about this. I&apos;m a Singer, guitarist and songwriter who likes to produce grunge music and play it for everyone who likes it." src="https://scontent.xx.fbcdn.net/v/t1.0-9/10704072_825913774119423_805790653130543527_n.jpg?oh=066086f6198cae2bc26b91e7e6f5d171&oe=58356C72">]]></description>
@@ -33,13 +40,6 @@
             <link>https://www.youtube.com/watch?v=uPC2N7H-K4M</link>
             <guid isPermaLink="false">f0dd8dbc-110f-4cbc-befa-9c7871b2b65a</guid>
             <pubDate>Fri, 08 Jul 2016 14:11:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Song Covers by -Balth-]]></title>
-            <description><![CDATA[<article><h1>Song Covers by -Balth-</h1><p>Covers compilation done in the past years</p></article>]]></description>
-            <link>https://soundcloud.com/balthofficial/sets/song-covers</link>
-            <guid isPermaLink="false">32df872a-3818-42b1-a84c-89e57bfff84f</guid>
-            <pubDate>Fri, 08 Jul 2016 14:33:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
