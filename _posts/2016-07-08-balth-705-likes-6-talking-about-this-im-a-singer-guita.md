@@ -2,19 +2,27 @@
 author:
   - avatar:
       src: >-
+        https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/24cb31628d4c6fca1f57b9337b596dfb/noop.jpg?input=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft1.0-1%2Fp160x160%2F1479152_825919577452176_8697021994654393440_n.jpg%3Foh%3Dd39c7f561bc2a434fc75f7ea4ca9caeb%26oe%3D57EA660F
+      original: >-
         https://scontent.xx.fbcdn.net/v/t1.0-1/p160x160/1479152_825919577452176_8697021994654393440_n.jpg?oh=d39c7f561bc2a434fc75f7ea4ca9caeb&oe=57EA660F
       width: 160
       height: 160
       colors:
-        - - 40
-          - 40
-          - 40
-        - - 218
-          - 218
-          - 218
-        - - 136
-          - 136
-          - 136
+        - - 0
+          - 0
+          - 0
+        - - 46
+          - 46
+          - 46
+        - - 239
+          - 239
+          - 239
+        - - 111
+          - 111
+          - 111
+        - - 162
+          - 162
+          - 162
 related: []
 publisher:
   url: 'https://www.facebook.com'
@@ -50,10 +58,10 @@ app_links:
     app_name: Facebook
     app_store_id: '284882215'
 isBasedOnUrl: 'https://www.facebook.com/balthofficial/app/190322544333196/?ref=page_internal'
-datePublished: '2016-07-08T14:26:20.257Z'
-dateModified: '2016-07-08T14:26:19.275Z'
-starred: true
+datePublished: '2016-07-12T18:20:34.191Z'
+dateModified: '2016-07-12T18:20:33.695Z'
 sourcePath: _posts/2016-07-08-balth-705-likes-6-talking-about-this-im-a-singer-guita.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
