@@ -64,10 +64,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=uPC2N7H-K4M'
 title: Balth - Like That (Live at Folked Up - London 06/2016)
-datePublished: '2016-07-08T14:11:11.102Z'
-dateModified: '2016-07-08T14:11:10.599Z'
+datePublished: '2016-07-12T18:20:38.180Z'
+dateModified: '2016-07-12T18:20:37.756Z'
 sourcePath: _posts/2016-07-08-balth-like-that-live-at-folked-up-london-062016.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
