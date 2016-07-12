@@ -64,10 +64,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Iii29KQKZ_I'
 title: Balth - Dreamer of the Mind (Live at Folked Up - London 06/2016)
-datePublished: '2016-07-08T14:22:41.021Z'
-dateModified: '2016-07-08T14:22:40.321Z'
-starred: true
+datePublished: '2016-07-12T18:20:35.960Z'
+dateModified: '2016-07-12T18:20:35.453Z'
 sourcePath: _posts/2016-07-08-balth-dreamer-of-the-mind-live-at-folked-up-london-062.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
