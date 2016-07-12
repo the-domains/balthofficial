@@ -50,10 +50,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/balthofficial/sets/song-covers'
 title: Song Covers by -Balth-
-datePublished: '2016-07-08T19:45:00.454Z'
-dateModified: '2016-07-08T19:44:59.886Z'
+datePublished: '2016-07-12T18:20:40.172Z'
+dateModified: '2016-07-12T18:20:39.598Z'
 sourcePath: _posts/2016-07-08-song-covers-by-balth-.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
