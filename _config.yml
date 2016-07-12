@@ -1,14 +1,14 @@
 layout_spectrum: 0.8068865719251335
-typography_spectrum: 0.24279454443603754
+typography_spectrum: 0.5010368963703513
 color:
-  brandStrength: 0.5921411057934165
-  lightness: 0.21700958721339703
-  saturation: 0.5870750108733773
-  rhythmicContrast: 0.8714036750607193
+  brandStrength: 0.5203579177614301
+  lightness: 0.14254010026343167
+  saturation: 0.0014153015799820423
+  rhythmicContrast: 0.3498916323296726
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: BalthOfficial
