@@ -4,8 +4,15 @@
         <description><![CDATA[Balth]]></description>
         <link>http://balth.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 08:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 17:13:06 GMT</lastBuildDate>
         <atom:link href="http://balth.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d097d962-7246-4f54-ab5a-387bc794def7.jpg">]]></description>
+            <link>http://balth.co.uk/hello-im-balthazar/index.html</link>
+            <guid isPermaLink="false">76a8c29a-6886-468f-8578-a70f92c139ac</guid>
+            <pubDate>Wed, 27 Jul 2016 17:13:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Balth - See You (Live at Folked Up - London 06/2016)]]></title>
             <description><![CDATA[<article><h1>Balth - See You (Live at Folked Up - London 06/2016)</h1><p>Please subscribe to my channel to receive updates when new videos are posted, If you like the song, please give it a thumbs up, and share it with someone you know. Thanks! ============================================== - WEBSITE: http://balth.co.uk/ - FACEBOOK: https://www.facebook.com/balthofficial - INSTAGRAM: http://www.instagram.com/balthofficial - YOUTUBE: http://www.youtube.com/c/FedericoBaltazarOlivaCrespo - SOUNDCLOUD: https://soundcloud.com/balthofficial ========================================== LYRICS: Tell me how do you see us now?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9da81a90c73b8f0e15b354b8c6d60f94/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FOuRObBYFj1U%2Fmaxresdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://balth.co.uk/db448baa-6bb3-445c-a64c-21cacf6ae373/index.html</link>
             <guid isPermaLink="false">db448baa-6bb3-445c-a64c-21cacf6ae373</guid>
             <pubDate>Fri, 08 Jul 2016 14:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/120f3c86-8618-443e-92c2-582d6da1c461.jpg">]]></description>
-            <link>http://balth.co.uk/57d30572-a0ea-4438-8533-d26faff065a9/index.html</link>
-            <guid isPermaLink="false">57d30572-a0ea-4438-8533-d26faff065a9</guid>
-            <pubDate>Fri, 08 Jul 2016 14:08:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
