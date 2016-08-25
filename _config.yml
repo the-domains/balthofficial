@@ -1,15 +1,15 @@
-layout_spectrum: 0.2565036085434258
-typography_spectrum: 0.7143186093308032
+layout_spectrum: 0.2177654760889709
+typography_spectrum: 0.9192639568354934
 color:
-  brandStrength: 0.07431197189725935
-  lightness: 0.011282014893367887
-  saturation: 0.33114742510952055
-  rhythmicContrast: 0.569823139347136
+  brandStrength: 0.1262920934241265
+  lightness: 0.1126547553576529
+  saturation: 0.9408252374269068
+  rhythmicContrast: 0.856140841729939
   brandColors:
-    - '#00261C'
-    - '#044D29'
-    - '#168039'
-    - '#45BF55'
-    - '#96ED89'
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
 name: BalthOfficial
 title: Balth
