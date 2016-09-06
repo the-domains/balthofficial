@@ -1,4 +1,3 @@
-layout_spectrum: 0.2177654760889709
 typography_spectrum: 0.9192639568354934
 color:
   brandStrength: 0.1262920934241265
@@ -11,5 +10,7 @@ color:
     - '#284907'
     - '#382513'
     - '#363942'
+layout_spectrum: 0.2177654760889709
 name: BalthOfficial
 title: Balth
+description: Singer & Songwriter
