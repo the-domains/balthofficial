@@ -1,16 +1,136 @@
-typography_spectrum: 0.9192639568354934
+typography_spectrum: 0.6535947862929563
 color:
-  brandStrength: 0.1262920934241265
-  lightness: 0.1126547553576529
-  saturation: 0.9408252374269068
-  rhythmicContrast: 0.856140841729939
+  brandStrength: 0.2731249973148403
+  lightness: 0.546478278309863
+  saturation: 0.13871863389286296
+  rhythmicContrast: 0.7101399442945413
   brandColors:
     - '#D8CAA8'
     - '#5C832F'
     - '#284907'
     - '#382513'
     - '#363942'
-layout_spectrum: 0.2177654760889709
-name: BalthOfficial
+layout_spectrum: 0.9897123842322184
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7788626-04f3-4bb1-9978-15aea0dd4bd8.png
+name: Balth
+navigation:
+  - name: About Me
+    id: 76a8c29a-6886-468f-8578-a70f92c139ac
+    type: content
+  - name: See You (Live at Folked Up - London 06/2016)
+    id: b945ef0f-3381-4681-b33d-86bfcff992a5
+    type: content
+  - name: Feel Free (Live at Folked Up - London 06/2016)
+    id: d5676755-03be-42d7-b125-0421860266df
+    type: content
+  - name: Balth - Lost in Life (Live at Folked Up - London 06/2016)
+    id: 04da3fa8-a35a-469b-b812-8f8f5430f114
+    type: content
+  - name: Unknown Girl (Live at Folked Up - London 06/2016)
+    id: 183e7071-9a6b-41eb-8a41-3a40ae9f11a2
+    type: content
+  - name: Like That (Live at Folked Up - London 06/2016)
+    id: f0dd8dbc-110f-4cbc-befa-9c7871b2b65a
+    type: content
+  - name: Dreamer of the Mind (Live at Folked Up - London 06/2016)
+    id: d370d34b-2c67-45f3-90d5-0f37b1dacd67
+    type: content
+  - name: Song Covers
+    id: 32df872a-3818-42b1-a84c-89e57bfff84f
+    type: content
+  - name: Facebook
+    id: 738dd945-30cb-4408-b45e-52d7088d1123
+    type: content
 title: Balth
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FRV0velNcs_I%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRV0velNcs_I&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FRV0velNcs_I%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Federico Baltazar Oliva Crespo
+          url: 'https://www.youtube.com/user/Murray185'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      keywords:
+        - acoustic
+        - unplugged
+        - grunge
+        - rock
+        - singer
+        - songwriter
+        - london
+        - live
+        - guitar
+        - original
+        - balth
+      description: >-
+        Please subscribe to my channel to receive updates when new videos are
+        posted, If you like the song, please give it a thumbs up, and share it
+        with someone you know. Thanks!
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=RV0velNcs_I&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=RV0velNcs_I&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=RV0velNcs_I&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=RV0velNcs_I&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=RV0velNcs_I&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=RV0velNcs_I'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=RV0velNcs_I
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=RV0velNcs_I
+          package: '544007664'
+          namespace: google
+          type: ios
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=RV0velNcs_I'
+      title: Balth - Feel Free (Live at Folked Up - London 06/2016)
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: Singer & Songwriter
+purpose:
+  - type: contact
+    url: 'mailto:federicoliva@gmail.com'
+    label: E-mail
+  - type: contact
+    url: 'tel:07412616527'
+    label: Phone
+github: true
+url: 'http://balth.com/'
